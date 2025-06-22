@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "videoUrl": "/video/sample1.mp4",
+    "title": "StartupIndia",
+    "description": "This is an inspiring story of startup hustle.",
+    "userName": "Gabar Singh",
+    "userImage": "/photo/gabar.jpg",
+    "likes": 200000,
+    "comments": 1300,
+    "shares": 456,
+    "earnings": 2.1,
+    "isPaid": true
+  },
+  {
+    "id": 2,
+    "videoUrl": "/video/sample1.mp4",
+    "title": "TechTalk",
+    "description": "Explaining the latest in tech trends.",
+    "userName": "RoboDev",
+    "userImage": "/photo/gabar.jpg",
+    "likes": 150000,
+    "comments": 980,
+    "shares": 120,
+    "earnings": 1.8,
+    "isPaid": false
+  }
+]
